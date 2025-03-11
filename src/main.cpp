@@ -9,6 +9,7 @@ int main() {
     std::cout << c << std::endl;
     std::cout << r << std::endl;
     std::cout << y << std::endl;
+    std::cout << delenie(b, a) << std::endl;
 
     return 0;
 }
