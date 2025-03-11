@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Executable.dir/src/main.cpp.o -o /home/andrew/Документы/proga_2sem/2semestr_proga/bin/Executable 
