@@ -1,0 +1,6 @@
+/home/andrew/Документы/proga_2sem/2semestr_proga/build/CMakeFiles/edit_cache.dir
+/home/andrew/Документы/proga_2sem/2semestr_proga/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Документы/proga_2sem/2semestr_proga/build/src/CMakeFiles/main.dir
+/home/andrew/Документы/proga_2sem/2semestr_proga/build/src/CMakeFiles/utils.dir
+/home/andrew/Документы/proga_2sem/2semestr_proga/build/src/CMakeFiles/edit_cache.dir
+/home/andrew/Документы/proga_2sem/2semestr_proga/build/src/CMakeFiles/rebuild_cache.dir
