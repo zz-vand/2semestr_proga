@@ -11,5 +11,6 @@ int main() {
     std::cout << y << std::endl;
     std::cout << delenie(b, a) << std::endl;
 
+    std::cout << "Hello world" << std::endl;
     return 0;
 }
